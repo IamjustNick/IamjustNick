@@ -1,5 +1,5 @@
 Hi, I am Nicolas
-- I’m interested in data science, audio programming and research in psychology. 
+- I’m interested in data science, audio programming and research in psychology
 - I’m currently working with Python and SQL and learning C++
 - I’m looking to collaborate on audio development and data science projects
 
